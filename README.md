@@ -3,6 +3,9 @@ ShadowsocksR
 
 [![Build Status]][Travis CI]
 
+===========
+以下内容修改自破娃酱的Readme原文，将部分内容修改至本fork以方便作为搭建教程。
+
 A fast tunnel proxy that helps you bypass firewalls.
 
 Server
@@ -13,16 +16,16 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/hengyuanma/shadowsocksr.git
 
 CentOS:
 
     yum install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/hengyuanma/shadowsocksr.git
 
 Windows:
 
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/hengyuanma/shadowsocksr.git
 
 ### Usage for single user on linux platform
 
